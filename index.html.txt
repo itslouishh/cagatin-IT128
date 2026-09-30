@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>My Profile</title>
-</head>
 <body>
 <h1>Louis Cagatin</h1>
 <p>Section: LE1</p>
 <p>Program: BSIT</p>
+ 
+https://picsum.photos/300
 </body>
-</html>
